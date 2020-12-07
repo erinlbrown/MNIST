@@ -1,0 +1,1 @@
+Data visualization and classification methods applied to the MNIST handwritten digit database 
